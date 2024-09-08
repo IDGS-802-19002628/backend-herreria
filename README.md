@@ -34,3 +34,7 @@ Sigue los siguientes pasos para ejecutar el proyecto en tu entorno local:
 ## Colaboradores
 
 
+1. Angel Francisco Barrientos Flores
+2. Pedro Hernandez de la Rosa
+3. Juan Eduardo Morua Lopez
+4. Angel Eduardo Juarez Alvizo
